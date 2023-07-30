@@ -16,7 +16,7 @@ def classify(num):
 def main():
     st.title("Iris Classification")
     html_temp= """
-    <div style="background-color:teal; padding:10px">
+    <div style="background-color:#006600; padding:10px">
     <h2 style="color:white;text-align:center;">Iris Classification</h2>
     </div>
     """
